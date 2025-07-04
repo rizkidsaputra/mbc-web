@@ -58,14 +58,7 @@ Sebelum menjalankan frontend ini, pastikan Anda sudah menjalankan backend dari r
 
 👉 [https://github.com/rizkidsaputra/mbc-backend](https://github.com/rizkidsaputra/mbc-backend)
 
-```bash
-git clone https://github.com/rizkidsaputra/mbc-backend.git
-cd mbc-backend
-npm install
-npm run dev
-```
-
-Backend akan berjalan di `http://localhost:5000`.
+Setelah dijalankan backend akan berjalan di `http://localhost:5000`.
 
 ### 2. Clone dan Jalankan Frontend
 
