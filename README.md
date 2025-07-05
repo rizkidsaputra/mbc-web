@@ -1,6 +1,6 @@
 # 🌐 MBC Web Frontend
 
-Landing Page untuk **MBC Lab**  sebagai bagian dari test MBC. Website ini dibangun menggunakan **React** dengan **Vite** dan **Tailwind CSS** untuk memberikan pengalaman pengguna yang cepat dan modern.
+Landing page untuk **MBC Laboratory**, dikembangkan sebagai bagian dari technical test MBC 2025. Website ini dibangun menggunakan **React** dengan **Vite** dan **Tailwind CSS** untuk memberikan pengalaman pengguna yang cepat dan modern.
 
 ---
 
@@ -73,6 +73,7 @@ npm install
 ```env
 VITE_API_URL=http://localhost:5000
 ```
+>Ganti ke URL backend jika anda sudah mendeploynya
 
 ### 4. Jalankan Aplikasi
 
